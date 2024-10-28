@@ -1,5 +1,5 @@
 # TeamIPTracker
-#Group assignment repository
+Group assignment repository
 import requests
 from datetime import datetime
 import tkinter as tk
